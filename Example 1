@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class SumofAandBExample {
+int a = 100; 
+int b = 200;
+//Print out the sum of A and B
+System.out.println("The sum is " + Integer(a,b));
+}
+}
